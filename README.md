@@ -24,8 +24,7 @@ This project demonstrates how to build a simple web-based image scraper using Fl
 - HTML
 - OS module
 - 
-![Project Screenshot](<img width="3792" height="1586" alt="image" src="https://github.com/user-attachments/assets/d3fdf734-6762-493e-a1a7-fa22f559003d" />
-)
+![Project result Screenshot](https://github.com/Anshgallery/SnapScraper/blob/4cbb3110632a6b2140250bf42bb8f0263a9808a1/Screenshot%202026-05-25%20012432.png)
 ## Project Structure
 
 ```bash
