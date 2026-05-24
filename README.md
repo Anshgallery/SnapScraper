@@ -23,7 +23,8 @@ This project demonstrates how to build a simple web-based image scraper using Fl
 - Requests
 - HTML
 - OS module
-
+- 
+![Project Screenshot]()
 ## Project Structure
 
 ```bash
